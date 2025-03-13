@@ -1,1 +1,2 @@
 # Screenshots
+this shows my experience, the warnings i had learning that i can't directly push in a repository that ain't mine so i have to fork it first then clone it while its my repository ,then i can push in, also learnt which comments work on the cli and the ones that don't, successfully installed the ssh key on github,since i was doing is solo i had to pull from my repo just to understand my practice. 
